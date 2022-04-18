@@ -1,0 +1,371 @@
+* {
+    font-family: 'Yeseva One', cursive;
+    padding: 0px;
+    margin: 0px;
+}
+
+.header {
+    margin: 100px 0px;
+    width: 100%;
+    height: 100%;
+}
+
+.mid {
+
+    margin: auto;
+    padding-top: 40px;
+    width: 90%;
+
+
+}
+
+.gold-color {
+    color: #FFAD5A;
+}
+
+.half-width {
+    width: 60%;
+    float: left;
+    margin: auto;
+
+
+
+
+
+}
+
+.line {
+    height: 130px;
+    border: none;
+    border-radius: 5px;
+
+    border-left: 6px solid #FF5959;
+    margin: auto;
+
+
+}
+
+.half-width h1 {
+    font-size: 60px;
+    color: #333333;
+    margin-left: 10px;
+
+}
+
+.right img {
+    width: 400px;
+    float: left;
+}
+
+p {
+    font-family: 'Poppins', sans-serif;
+    font-size: 18px;
+    width: 60%;
+    margin: 40px 0px;
+
+}
+
+
+.half-width a {
+
+
+    padding: 15px 40px;
+
+    background-color: #FF5959;
+    text-decoration: none;
+    border-radius: 5px;
+    text-align: center;
+    color: white;
+
+}
+
+.mission-area {
+    margin: 100px 0px;
+    width: 100%;
+    height: 100%;
+
+
+    display: inline-block;
+
+}
+
+.mission-area h1 {
+    font-weight: bold;
+    color: #13103A;
+    font-size: 48px;
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+}
+
+.mission {
+    width: 26%;
+    height: 20%;
+    float: left;
+    padding-left: 20px;
+    border: 5px solid black;
+    border-radius: 25px;
+    border: none;
+    background-color: rgba(79, 157, 166, 0.12);
+    margin-left: 70px;
+
+
+}
+
+.mission img {
+    width: 30%;
+    margin-top: 40px;
+
+}
+
+
+.mission h2 {
+    font-size: 24px;
+}
+
+.mission p {
+    color: #424242;
+    font-size: 16px;
+    width: 300px;
+}
+
+
+.vission {
+    width: 26%;
+    height: 20%;
+    float: left;
+    padding-left: 20px;
+    border: 5px solid black;
+    border-radius: 25px;
+    border: none;
+    background-color: rgba(255, 89, 89, 0.1);
+    margin-left: 60px;
+
+
+}
+
+.vission img {
+    width: 30%;
+    margin-top: 40px;
+
+}
+
+
+.vission h2 {
+    font-size: 24px;
+}
+
+.vission p {
+    color: #424242;
+    font-size: 16px;
+    width: 300px;
+}
+
+
+
+.goal {
+    width: 26%;
+    height: 20%;
+    float: left;
+    padding-left: 20px;
+    border: 5px solid black;
+    border-radius: 25px;
+    border: none;
+    background-color: rgba(255, 244, 214, 1);
+    margin-left: 60px;
+
+
+}
+
+.goal img {
+    width: 30%;
+    margin-top: 40px;
+
+}
+
+
+.goal h2 {
+    font-size: 24px;
+}
+
+.goal p {
+    color: #424242;
+    font-size: 16px;
+    width: 300px;
+}
+
+.develop {
+    margin: 100px 0px;
+    width: 100%;
+    height: 100%;
+
+    background-image: url(images/shape-1.png);
+    background-repeat: no-repeat;
+    background-position: 0px;
+    overflow: hidden;
+    background-size: 13%;
+
+
+}
+
+
+.develop img {
+    width: 500px;
+}
+
+.develop .half-width {
+
+    width: 50%;
+    float: left;
+    margin: auto;
+    margin-top: 40px;
+    padding-left: 70px;
+}
+
+
+.develop .half-width h2 {
+    font-size: 36px;
+    color: #333333;
+
+}
+
+.develop p {
+    width: 645px;
+}
+
+
+
+
+.know {
+    padding: 100px 0px;
+    width: 100%;
+    height: 100%;
+
+    background-image: url(images/shape-1.png);
+    background-repeat: no-repeat;
+    background-position: bottom right;
+    overflow: hidden;
+    background-size: 13%;
+
+}
+
+
+.know img {
+    width: 450px;
+    float: left;
+    padding-left: 100px;
+}
+
+.know .half-width {
+
+    width: 50%;
+    float: left;
+    margin: auto;
+    margin-top: 40px;
+    padding-left: 70px;
+}
+
+
+.know .half-width h2 {
+    font-size: 36px;
+    color: #333333;
+
+
+}
+
+.know p {
+    width: 645px;
+}
+
+
+.apps {
+    margin: 100px 0px;
+    width: 100%;
+    height: 100%;
+
+}
+
+.apps h1 {
+    font-family: 'Poppins', sans-serif;
+    font-size: 48px;
+    font-weight: bold;
+    text-align: center;
+
+}
+
+.apps-box {
+    display: inline-block;
+    margin-top: 50px;
+}
+
+.apps-items {
+    width: 50%;
+    float: left;
+}
+
+.apps-items img {
+    width: 250px;
+    float: left;
+    padding-left: 300px;
+
+}
+
+.apps-items h1 {
+    font-family: 'Poppins', sans-serif;
+    font-size: 48px;
+    font-weight: bold;
+    text-align: left;
+
+}
+
+.apps-items p {
+    color: #3E3E3E;
+    ;
+    font-family: 'Poppins', sans-serif;
+    font-size: 18px;
+    text-align: justify;
+
+
+}
+
+.apps-items a {
+    padding: 15px 40px;
+    color: white;
+    background-color: #FF5959;
+    text-decoration: none;
+    border-radius: 5px;
+
+}
+
+.footer {
+
+    padding: 40px;
+    background-color: black;
+
+    margin: auto;
+
+
+
+
+}
+
+
+
+.footer h1 {
+    font-family: 'Lobster', cursive;
+    font-size: 36px;
+    color: white;
+    text-align: center;
+}
+
+.footer .red {
+    color: #FF5959;
+    font-family: 'Lobster', cursive;
+}
+
+
+.footer p {
+    color: #D9DBE1;
+    font-size: 14px;
+    text-align: center;
+    margin: auto;
+}
